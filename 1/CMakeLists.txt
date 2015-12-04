@@ -62,7 +62,7 @@ endif()
 
 add_dl_project(
   PROJ     gtest_gmock
-  GIT_REPOSITORY https://github.com/google/googletest.git
+  GIT_REPOSITORY https://github.com/google/googletest.git # https://github.com/ajneu/googletest.git
   GIT_TAG        master # Git branch name, commit id or tag
   
   # URL          https://googletest.googlecode.com/files/gtest-1.7.0.zip
